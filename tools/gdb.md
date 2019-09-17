@@ -1,3 +1,6 @@
+# start gdb
+gdb --args app arg1 arg2
+
 # set breakpoint
 b x.cpp:23
 
@@ -12,4 +15,8 @@ n
 
 # continue to run
 c
+
+# show thread stack trace
+thread apply all bt
+
 
