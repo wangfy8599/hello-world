@@ -18,5 +18,17 @@ c
 
 # show thread stack trace
 thread apply all bt
+bt
 
+# show locals
+info locals
+
+# show variables
+info variables
+
+# show args
+info args
+
+# change frame
+select-frame 5
 
