@@ -32,3 +32,6 @@ info args
 # change frame
 select-frame 5
 
+# print variable
+p <var>
+display <var>
