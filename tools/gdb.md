@@ -8,6 +8,11 @@ b x.cpp:23
 # remove breakpoint
 clear x.cpp:23
 
+# show code
+list
+ctrl+x and ctrl+a
+info win
+
 # step int
 s
 
