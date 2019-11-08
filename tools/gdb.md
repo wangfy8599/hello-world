@@ -1,5 +1,5 @@
 # start gdb
-gdb --args app arg1 arg2
+gdb --args app arg1 arg2  
 gdb app /tmp/core*dump
 
 # set breakpoint
@@ -9,9 +9,9 @@ b x.cpp:23
 clear x.cpp:23
 
 # show code
-list
-ctrl+x and ctrl+a
-info win
+list  
+ctrl+x and ctrl+a  
+info win  
 
 # step int
 s
@@ -23,7 +23,7 @@ n
 c
 
 # show thread stack trace
-thread apply all bt
+thread apply all bt  
 bt
 
 # show locals
@@ -39,5 +39,5 @@ info args
 select-frame 5
 
 # print variable
-p <var>
+p <var>  
 display <var>
