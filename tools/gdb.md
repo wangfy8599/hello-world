@@ -1,11 +1,12 @@
 # start gdb
 gdb --args app arg1 arg2  
-gdb app /tmp/core*dump
+gdb app /tmp/core*dump  
 
 # breakpoint
-b x.cpp:23
-clear x.cpp:23
-info b
+b x.cpp:23  
+clear x.cpp:23  
+catch throw  
+info b  
 
 # show code
 list  
