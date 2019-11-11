@@ -2,11 +2,10 @@
 gdb --args app arg1 arg2  
 gdb app /tmp/core*dump
 
-# set breakpoint
+# breakpoint
 b x.cpp:23
-
-# remove breakpoint
 clear x.cpp:23
+info b
 
 # show code
 list  
