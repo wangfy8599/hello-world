@@ -5,6 +5,7 @@ gdb app /tmp/core*dump
 # breakpoint
 b x.cpp:23  
 clear x.cpp:23  
+del <start_breakpoint_num> - <end_breakpoint_num>
 catch throw  
 info b  
 
