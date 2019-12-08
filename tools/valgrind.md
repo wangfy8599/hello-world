@@ -1,1 +1,2 @@
-valgrind --tool=memcheck --leak-check=full  ./app
+valgrind --tool=memcheck --leak-check=full  --show-leak-kinds=all  ./app  
+
