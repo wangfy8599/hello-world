@@ -1,6 +1,6 @@
 # ~/.vimrc
 ```
-" set number
+set number/set nonumber
 syntax on
 
 set autoindent
