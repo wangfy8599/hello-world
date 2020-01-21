@@ -8,7 +8,7 @@ b x.cpp:22 if y == 3
 clear x.cpp:23  
 del <start_breakpoint_num> - <end_breakpoint_num>  
 catch throw  
-## list breakpoints
+-- list breakpoints
 info b  
 
 # show code
