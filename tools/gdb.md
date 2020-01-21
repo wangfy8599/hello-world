@@ -4,11 +4,12 @@ gdb app /tmp/core*dump
 
 # breakpoint
 b x.cpp:23  
-b x.cpp:22 if y == 3
+b x.cpp:22 if y == 3  
 clear x.cpp:23  
-del <start_breakpoint_num> - <end_breakpoint_num>
+del <start_breakpoint_num> - <end_breakpoint_num>  
 catch throw  
-info b
+## list breakpoints
+info b  
 
 # show code
 list  
