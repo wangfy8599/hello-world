@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdcData>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163906874</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24889809=JVZH^F18</currValue>
+                <validFrom>20180620205355</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24889809=JVZH</currValue>
+                <validFrom>20140731232450</validFrom>
+                <validTo>20180620205355</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163962190</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43NV=JVZH^F18</currValue>
+                <validFrom>20180620205355</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43NV=JVZH</currValue>
+                <validFrom>20140801132417</validFrom>
+                <validTo>20180620205355</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163962382</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43N3=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43N3=JVZH</currValue>
+                <validFrom>20140801132534</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163962497</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43MT=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43MT=JVZH</currValue>
+                <validFrom>20140801132610</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163963464</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43NZ=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43NZ=JVZH</currValue>
+                <validFrom>20140801134827</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163979422</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43QV=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43QV=JVZH</currValue>
+                <validFrom>20140801180145</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163979498</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43QA=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43QA=JVZH</currValue>
+                <validFrom>20140801180202</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163979954</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43QR=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43QR=JVZH</currValue>
+                <validFrom>20140801180339</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>163980261</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43PE=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43PE=JVZH</currValue>
+                <validFrom>20140801180439</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164011222</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1JL4.EW^F18</currValue>
+                <validFrom>20180620205357</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1JL4.EW</currValue>
+                <validFrom>20140802012621</validFrom>
+                <validTo>20180620205357</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164233608</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43Y2=JVZH^F18</currValue>
+                <validFrom>20180620205357</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43Y2=JVZH</currValue>
+                <validFrom>20140805121338</validFrom>
+                <validTo>20180620205357</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164233813</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ43Y0=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ43Y0=JVZH</currValue>
+                <validFrom>20140805121353</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164236749</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460594=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460594=JVZH</currValue>
+                <validFrom>20140805125537</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164236823</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24889980=JVZH^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24889980=JVZH</currValue>
+                <validFrom>20140805125612</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164262406</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K9G.F^F18</currValue>
+                <validFrom>20180620205356</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K9G.F</currValue>
+                <validFrom>20140806005847</validFrom>
+                <validTo>20180620205356</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164263749</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KUA.F^F18</currValue>
+                <validFrom>20180620205357</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KUA.F</currValue>
+                <validFrom>20140806010455</validFrom>
+                <validTo>20180620205357</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164263781</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KTM.F^F18</currValue>
+                <validFrom>20180620205357</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KTM.F</currValue>
+                <validFrom>20140806010502</validFrom>
+                <validTo>20180620205357</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164264772</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K5P.F^F18</currValue>
+                <validFrom>20180620205357</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K5P.F</currValue>
+                <validFrom>20140806010920</validFrom>
+                <validTo>20180620205357</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164265037</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K69.F^F18</currValue>
+                <validFrom>20180620205358</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K69.F</currValue>
+                <validFrom>20140806011021</validFrom>
+                <validTo>20180620205358</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164265091</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K5Y.F^F18</currValue>
+                <validFrom>20180620205358</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K5Y.F</currValue>
+                <validFrom>20140806011032</validFrom>
+                <validTo>20180620205358</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164265149</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KU3.F^F18</currValue>
+                <validFrom>20180620205358</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KU3.F</currValue>
+                <validFrom>20140806011043</validFrom>
+                <validTo>20180620205358</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164266531</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K8N.F^F18</currValue>
+                <validFrom>20180620205357</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K8N.F</currValue>
+                <validFrom>20140806011602</validFrom>
+                <validTo>20180620205357</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164268205</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1LCG.F^F18</currValue>
+                <validFrom>20180620205358</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1LCG.F</currValue>
+                <validFrom>20140806012343</validFrom>
+                <validTo>20180620205358</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164270590</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KNP.F^F18</currValue>
+                <validFrom>20180620205358</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KNP.F</currValue>
+                <validFrom>20140806013422</validFrom>
+                <validTo>20180620205358</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164270935</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K1Q.F^F18</currValue>
+                <validFrom>20180620205358</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K1Q.F</currValue>
+                <validFrom>20140806013534</validFrom>
+                <validTo>20180620205358</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164272460</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K74.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K74.F</currValue>
+                <validFrom>20140806014134</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164272552</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KSS.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KSS.F</currValue>
+                <validFrom>20140806014150</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164272639</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K05.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K05.F</currValue>
+                <validFrom>20140806014204</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164274110</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K9W.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K9W.F</currValue>
+                <validFrom>20140806014756</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164274292</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1LEC.F^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1LEC.F</currValue>
+                <validFrom>20140806014830</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164275572</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K7C.F^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K7C.F</currValue>
+                <validFrom>20140806015310</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164279223</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KTP.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KTP.F</currValue>
+                <validFrom>20140806020511</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164280435</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KN6.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KN6.F</currValue>
+                <validFrom>20140806020925</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164281866</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K61.F^F18</currValue>
+                <validFrom>20180620205359</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K61.F</currValue>
+                <validFrom>20140806021404</validFrom>
+                <validTo>20180620205359</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164281944</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KV0.F^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KV0.F</currValue>
+                <validFrom>20140806021420</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164283512</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K9F.F^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K9F.F</currValue>
+                <validFrom>20140806022056</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164284421</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KST.EW^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KST.EW</currValue>
+                <validFrom>20140806022739</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164285284</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K4L.EW^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K4L.EW</currValue>
+                <validFrom>20140806022947</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164285832</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KXE.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KXE.EW</currValue>
+                <validFrom>20140806023057</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164286596</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K61.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K61.EW</currValue>
+                <validFrom>20140806023252</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164287414</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K4A.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K4A.EW</currValue>
+                <validFrom>20140806023521</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164287512</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KXG.EW^F18</currValue>
+                <validFrom>20180620205400</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KXG.EW</currValue>
+                <validFrom>20140806023540</validFrom>
+                <validTo>20180620205400</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164288151</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KSV.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KSV.EW</currValue>
+                <validFrom>20140806023739</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164288189</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KUR.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KUR.EW</currValue>
+                <validFrom>20140806023746</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164288515</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K9H.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K9H.EW</currValue>
+                <validFrom>20140806023844</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164288931</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KUS.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KUS.EW</currValue>
+                <validFrom>20140806023959</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164288937</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KXB.EW^F18</currValue>
+                <validFrom>20180620205401</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KXB.EW</currValue>
+                <validFrom>20140806024000</validFrom>
+                <validTo>20180620205401</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164288966</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K5P.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K5P.EW</currValue>
+                <validFrom>20140806024005</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164290480</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K5N.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K5N.EW</currValue>
+                <validFrom>20140806024413</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164291117</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KQK.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KQK.EW</currValue>
+                <validFrom>20140806024602</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164291149</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K06.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K06.EW</currValue>
+                <validFrom>20140806024607</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164292955</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KV7.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KV7.EW</currValue>
+                <validFrom>20140806025113</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164294136</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1K55.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1K55.EW</currValue>
+                <validFrom>20140806025405</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164294198</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KWD.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KWD.EW</currValue>
+                <validFrom>20140806025415</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164294970</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1KNV.EW^F18</currValue>
+                <validFrom>20180620205402</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1KNV.EW</currValue>
+                <validFrom>20140806025620</validFrom>
+                <validTo>20180620205402</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164294981</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1LD3.EW^F18</currValue>
+                <validFrom>20180620205403</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1LD3.EW</currValue>
+                <validFrom>20140806025623</validFrom>
+                <validTo>20180620205403</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164316905</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460616=JVZH^F18</currValue>
+                <validFrom>20180620205403</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460616=JVZH</currValue>
+                <validFrom>20140806124159</validFrom>
+                <validTo>20180620205403</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164331526</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G2T=JVZH^F18</currValue>
+                <validFrom>20180620205403</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G2T=JVZH</currValue>
+                <validFrom>20140806173636</validFrom>
+                <validTo>20180620205403</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164331666</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G0V=JVZH^F18</currValue>
+                <validFrom>20180620205403</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G0V=JVZH</currValue>
+                <validFrom>20140806173707</validFrom>
+                <validTo>20180620205403</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164331839</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G15=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G15=JVZH</currValue>
+                <validFrom>20140806173743</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164331890</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G1K=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G1K=JVZH</currValue>
+                <validFrom>20140806173800</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164368470</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1MV4.EW^F18</currValue>
+                <validFrom>20180620205403</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1MV4.EW</currValue>
+                <validFrom>20140807021147</validFrom>
+                <validTo>20180620205403</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164426377</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24890003=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24890003=JVZH</currValue>
+                <validFrom>20140807122318</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164426492</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G27=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G27=JVZH</currValue>
+                <validFrom>20140807122324</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164426618</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G44=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G44=JVZH</currValue>
+                <validFrom>20140807122332</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164426878</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G6C=JVZH^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G6C=JVZH</currValue>
+                <validFrom>20140807122349</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164426954</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G3E=JVZH^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G3E=JVZH</currValue>
+                <validFrom>20140807122354</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164427098</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24890032=JVZH^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24890032=JVZH</currValue>
+                <validFrom>20140807122404</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164471227</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5G9S=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5G9S=JVZH</currValue>
+                <validFrom>20140807200332</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164472056</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460674=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460674=JVZH</currValue>
+                <validFrom>20140807201324</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164472379</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24890038=JVZH^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24890038=JVZH</currValue>
+                <validFrom>20140807201558</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164473034</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460633=JVZH^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460633=JVZH</currValue>
+                <validFrom>20140807203007</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164507346</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1NAG.EW^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1NAG.EW</currValue>
+                <validFrom>20140808012910</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164547148</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5HK5=JVZH^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5HK5=JVZH</currValue>
+                <validFrom>20140808170329</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164561755</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5HLM=JVZH^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5HLM=JVZH</currValue>
+                <validFrom>20140808181740</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164568366</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1NMW.F^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1NMW.F</currValue>
+                <validFrom>20140808232702</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164590961</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1NQP.EW^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1NQP.EW</currValue>
+                <validFrom>20140809010621</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164774111</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24890232=JVZH^F18</currValue>
+                <validFrom>20180620205407</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24890232=JVZH</currValue>
+                <validFrom>20140812183839</validFrom>
+                <validTo>20180620205407</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164788623</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1PEB.F^F18</currValue>
+                <validFrom>20180620205405</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1PEB.F</currValue>
+                <validFrom>20140813011414</validFrom>
+                <validTo>20180620205405</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164801461</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1PEV.EW^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1PEV.EW</currValue>
+                <validFrom>20140813020941</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>164848394</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460745=JVZH^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460745=JVZH</currValue>
+                <validFrom>20140813122509</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="FXKNOCKOUT" event="U">
+        <header>
+            <PI>164859399</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DE000CR2RVA2.PA^F18</currValue>
+                <validFrom>20180620205406</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DE000CR2RVA2.PA</currValue>
+                <validFrom>20150606083135</validFrom>
+                <validTo>20180620205406</validTo>
+            </property>
+            <property id="27369">
+                <currValue>G230Z.PA</currValue>
+                <validFrom>20140813144816</validFrom>
+                <validTo>20150606083135</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164889937</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEPA6WYQ.EW^F18</currValue>
+                <validFrom>20180620205407</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEPA6WYQ.EW</currValue>
+                <validFrom>20140814020301</validFrom>
+                <validTo>20180620205407</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>164890162</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1PMT.EW^F18</currValue>
+                <validFrom>20180620205407</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1PMT.EW</currValue>
+                <validFrom>20140814020335</validFrom>
+                <validTo>20180620205407</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="BARWNT" event="U">
+        <header>
+            <PI>165358411</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEDG1QXM.F^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEDG1QXM.F</currValue>
+                <validFrom>20140819230529</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165411873</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ501H=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ501H=JVZH</currValue>
+                <validFrom>20140820112756</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165413420</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ503K=JVZH^F18</currValue>
+                <validFrom>20180620205407</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ503K=JVZH</currValue>
+                <validFrom>20140820112947</validFrom>
+                <validTo>20180620205407</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165413995</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ506F=JVZH^F18</currValue>
+                <validFrom>20180620205408</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ506F=JVZH</currValue>
+                <validFrom>20140820113029</validFrom>
+                <validTo>20180620205408</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165417814</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ50YD=JVZH^F18</currValue>
+                <validFrom>20180620205408</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ50YD=JVZH</currValue>
+                <validFrom>20140820121457</validFrom>
+                <validTo>20180620205408</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165418240</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51DV=JVZH^F18</currValue>
+                <validFrom>20180620205408</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51DV=JVZH</currValue>
+                <validFrom>20140820121538</validFrom>
+                <validTo>20180620205408</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165418910</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ507D=JVZH^F18</currValue>
+                <validFrom>20180620205408</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ507D=JVZH</currValue>
+                <validFrom>20140820121650</validFrom>
+                <validTo>20180620205408</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165419116</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51AP=JVZH^F18</currValue>
+                <validFrom>20180620205408</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51AP=JVZH</currValue>
+                <validFrom>20140820121708</validFrom>
+                <validTo>20180620205408</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165419136</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51CP=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51CP=JVZH</currValue>
+                <validFrom>20140820121710</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165419191</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ507K=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ507K=JVZH</currValue>
+                <validFrom>20140820121714</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165419542</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24890357=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24890357=JVZH</currValue>
+                <validFrom>20140820121749</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165419795</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ507X=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ507X=JVZH</currValue>
+                <validFrom>20140820121813</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165420015</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ508G=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ508G=JVZH</currValue>
+                <validFrom>20140820121833</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165420610</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ507W=JVZH^F18</currValue>
+                <validFrom>20180620205409</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ507W=JVZH</currValue>
+                <validFrom>20140820121930</validFrom>
+                <validTo>20180620205409</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165420715</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51D3=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51D3=JVZH</currValue>
+                <validFrom>20140820121938</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535093</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51HA=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51HA=JVZH</currValue>
+                <validFrom>20140821143300</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535121</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51D7=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51D7=JVZH</currValue>
+                <validFrom>20140821143316</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535192</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51J9=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51J9=JVZH</currValue>
+                <validFrom>20140821143346</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535205</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51LW=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51LW=JVZH</currValue>
+                <validFrom>20140821143349</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535213</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460873=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460873=JVZH</currValue>
+                <validFrom>20140821143354</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535218</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51JT=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51JT=JVZH</currValue>
+                <validFrom>20140821143355</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535237</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51MA=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51MA=JVZH</currValue>
+                <validFrom>20140821143518</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535312</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51D9=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51D9=JVZH</currValue>
+                <validFrom>20140821143544</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535433</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51J4=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51J4=JVZH</currValue>
+                <validFrom>20140821143604</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535454</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51FU=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51FU=JVZH</currValue>
+                <validFrom>20140821143608</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165535590</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51EV=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51EV=JVZH</currValue>
+                <validFrom>20140821143651</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165595318</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460925=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460925=JVZH</currValue>
+                <validFrom>20140822182326</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687092</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5195=JVZH^F18</currValue>
+                <validFrom>20180620205410</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5195=JVZH</currValue>
+                <validFrom>20140825111657</validFrom>
+                <validTo>20180620205410</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687210</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5198=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5198=JVZH</currValue>
+                <validFrom>20140825111715</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687279</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ52AY=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ52AY=JVZH</currValue>
+                <validFrom>20140825111722</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687325</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ518W=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ518W=JVZH</currValue>
+                <validFrom>20140825111727</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687356</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ52AT=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ52AT=JVZH</currValue>
+                <validFrom>20140825111730</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687357</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ519K=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ519K=JVZH</currValue>
+                <validFrom>20140825111730</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687436</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ510N=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ510N=JVZH</currValue>
+                <validFrom>20140825111737</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687450</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5161=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5161=JVZH</currValue>
+                <validFrom>20140825111739</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687464</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ518Z=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ518Z=JVZH</currValue>
+                <validFrom>20140825111740</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687522</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ52AN=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ52AN=JVZH</currValue>
+                <validFrom>20140825111745</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687531</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ510P=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ510P=JVZH</currValue>
+                <validFrom>20140825111746</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687569</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ52A0=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ52A0=JVZH</currValue>
+                <validFrom>20140825111749</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687590</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5117=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5117=JVZH</currValue>
+                <validFrom>20140825111751</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687641</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5134=JVZH^F18</currValue>
+                <validFrom>20180620205404</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5134=JVZH</currValue>
+                <validFrom>20140825111757</validFrom>
+                <validTo>20180620205404</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687699</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ515D=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ515D=JVZH</currValue>
+                <validFrom>20140825111802</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687743</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51Y9=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51Y9=JVZH</currValue>
+                <validFrom>20140825111806</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687747</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5131=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5131=JVZH</currValue>
+                <validFrom>20140825111806</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687791</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5104=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5104=JVZH</currValue>
+                <validFrom>20140825111810</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687843</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ51X0=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ51X0=JVZH</currValue>
+                <validFrom>20140825111814</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687934</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5184=JVZH^F18</currValue>
+                <validFrom>20180620205411</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5184=JVZH</currValue>
+                <validFrom>20140825111821</validFrom>
+                <validTo>20180620205411</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165687988</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ511A=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ511A=JVZH</currValue>
+                <validFrom>20140825111825</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165701271</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24172843=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24172843=JVZH</currValue>
+                <validFrom>20140825173347</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165737369</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ52EQ=JVZH^F18</currValue>
+                <validFrom>20180620205408</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ52EQ=JVZH</currValue>
+                <validFrom>20140826122512</validFrom>
+                <validTo>20180620205408</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165737492</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ52JR=JVZH^F18</currValue>
+                <validFrom>20180620205403</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ52JR=JVZH</currValue>
+                <validFrom>20140826122521</validFrom>
+                <validTo>20180620205403</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165817263</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24460985=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24460985=JVZH</currValue>
+                <validFrom>20140827175144</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165900746</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53DR=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53DR=JVZH</currValue>
+                <validFrom>20140828121927</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165900858</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53A6=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53A6=JVZH</currValue>
+                <validFrom>20140828122021</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165901596</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53AE=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53AE=JVZH</currValue>
+                <validFrom>20140828122259</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165901644</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53BQ=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53BQ=JVZH</currValue>
+                <validFrom>20140828122307</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165902307</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5295=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5295=JVZH</currValue>
+                <validFrom>20140828122532</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165904071</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53DH=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53DH=JVZH</currValue>
+                <validFrom>20140828123251</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165904650</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53C0=JVZH^F18</currValue>
+                <validFrom>20180620205412</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53C0=JVZH</currValue>
+                <validFrom>20140828123626</validFrom>
+                <validTo>20180620205412</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165904929</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53A5=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53A5=JVZH</currValue>
+                <validFrom>20140828123701</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>165905925</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ53EF=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ53EF=JVZH</currValue>
+                <validFrom>20140828124037</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166281494</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55CX=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55CX=JVZH</currValue>
+                <validFrom>20140904134440</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166281738</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55DY=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55DY=JVZH</currValue>
+                <validFrom>20140904134512</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282197</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55E3=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55E3=JVZH</currValue>
+                <validFrom>20140904134551</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282238</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55EZ=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55EZ=JVZH</currValue>
+                <validFrom>20140904134556</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282288</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55BJ=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55BJ=JVZH</currValue>
+                <validFrom>20140904134600</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282405</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55BP=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55BP=JVZH</currValue>
+                <validFrom>20140904134614</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282714</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55EH=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55EH=JVZH</currValue>
+                <validFrom>20140904134840</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282758</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55DK=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55DK=JVZH</currValue>
+                <validFrom>20140904134854</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166282792</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ55D7=JVZH^F18</currValue>
+                <validFrom>20180620205413</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ55D7=JVZH</currValue>
+                <validFrom>20140904134905</validFrom>
+                <validTo>20180620205413</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166299893</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24461124=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24461124=JVZH</currValue>
+                <validFrom>20140904190241</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356504</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ568F=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ568F=JVZH</currValue>
+                <validFrom>20140905123712</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356573</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57KU=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57KU=JVZH</currValue>
+                <validFrom>20140905123723</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356581</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57C1=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57C1=JVZH</currValue>
+                <validFrom>20140905123724</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356585</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57PQ=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57PQ=JVZH</currValue>
+                <validFrom>20140905123724</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356659</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ565K=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ565K=JVZH</currValue>
+                <validFrom>20140905123733</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356666</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57XD=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57XD=JVZH</currValue>
+                <validFrom>20140905123734</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356739</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57EA=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57EA=JVZH</currValue>
+                <validFrom>20140905123744</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356746</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5653=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5653=JVZH</currValue>
+                <validFrom>20140905123744</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166356764</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57A0=JVZH^F18</currValue>
+                <validFrom>20180620205414</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57A0=JVZH</currValue>
+                <validFrom>20140905123746</validFrom>
+                <validTo>20180620205414</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357014</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5669=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5669=JVZH</currValue>
+                <validFrom>20140905123818</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357245</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5699=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5699=JVZH</currValue>
+                <validFrom>20140905123847</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357337</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57EF=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57EF=JVZH</currValue>
+                <validFrom>20140905123857</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357338</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57C9=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57C9=JVZH</currValue>
+                <validFrom>20140905123857</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357339</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57DW=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57DW=JVZH</currValue>
+                <validFrom>20140905123857</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357342</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57J2=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57J2=JVZH</currValue>
+                <validFrom>20140905123857</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357355</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>CH24890762=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>CH24890762=JVZH</currValue>
+                <validFrom>20140905123859</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357520</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57X0=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57X0=JVZH</currValue>
+                <validFrom>20140905123920</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357549</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57DK=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57DK=JVZH</currValue>
+                <validFrom>20140905123922</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166357699</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ5690=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ5690=JVZH</currValue>
+                <validFrom>20140905123952</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166358199</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57EG=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57EG=JVZH</currValue>
+                <validFrom>20140905125019</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166358276</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57T1=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57T1=JVZH</currValue>
+                <validFrom>20140905125030</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166358393</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57XN=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57XN=JVZH</currValue>
+                <validFrom>20140905125045</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+    <entity type="Q" subtype="EIW" rcssubtype="" event="U">
+        <header>
+            <PI>166358394</PI>
+        </header>
+        <content>
+            <property id="27369">
+                <currValue>DEVZ57PT=JVZH^F18</currValue>
+                <validFrom>20180620205415</validFrom>
+            </property>
+            <property id="27369">
+                <currValue>DEVZ57PT=JVZH</currValue>
+                <validFrom>20140905125045</validFrom>
+                <validTo>20180620205415</validTo>
+            </property>
+        </content>
+    </entity>
+</rdcData>
+
