@@ -1,8 +1,9 @@
 # Start in backend
-redis-server /etc/redis/redis.conf
+change daemonize from no to yes in redis.conf  
+`redis-server /etc/redis/redis.conf`
 
 # Stop
-redis-cli shutdown
+`redis-cli shutdown`
 
 # Scan all keys
-redis-cli --scan --pattern '*'
+`redis-cli --scan --pattern '*'`
