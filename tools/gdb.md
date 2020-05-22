@@ -11,10 +11,10 @@ catch throw
 -- list breakpoints
 info b  
 
-catch throw
-catch catch
-catch fork
-catch load
+catch throw  
+catch catch  
+catch fork  
+catch load  
 
 # show code
 list  
