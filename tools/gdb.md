@@ -1,5 +1,5 @@
 # start gdb
-gdb --args app arg1 arg2  
+`gdb --args app arg1 arg2`
 gdb app /tmp/core*dump  
 
 # breakpoint
