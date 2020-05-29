@@ -1,3 +1,11 @@
+# CMake Usage
+```
+mkdir build
+cd build
+cmake ..
+```
+
+
 # CMake Default Variables
 
 CMAKE_SOURCE_DIR
