@@ -26,4 +26,10 @@ kubeadm init
 
 If it is failed during pulling image, please add proxy to docker https://docs.docker.com/config/daemon/systemd/#httphttps-proxy
 
+4. Instal CNI
+```
+kubectl apply -f https://docs.projectcalico.org/manifests/calico.yaml
+```
+# Reference
+https://www.linuxtechi.com/install-kubernetes-1-7-centos7-rhel7/
 
