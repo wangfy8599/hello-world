@@ -1,2 +1,5 @@
-pstree -p
-json_pp
+# Check Process Tree
+```pstree -p```
+
+# Check all files including hidden files size
+```du -sh .[^.]*```
