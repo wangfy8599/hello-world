@@ -25,6 +25,10 @@ kubeadm init
 ```
 
 If it is failed during pulling image, please add proxy to docker https://docs.docker.com/config/daemon/systemd/#httphttps-proxy
+check proxy configuration
+```
+systemctl show --property Environment docker
+```
 
 ## 4. Instal CNI
 ```
