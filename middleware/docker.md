@@ -5,6 +5,9 @@ at /etc/systemd/system/docker.service.d/http-proxy.conf or /etc/systemd/system/d
 Environment="HTTP_PROXY=http://10.23.28.130:8080/"
 ```
 
+# Docker image location
+/var/lib/docker/...
+
 # Config file
 https://docs.docker.com/engine/reference/commandline/dockerd/#daemon-configuration-file
 
