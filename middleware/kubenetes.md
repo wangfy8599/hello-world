@@ -30,6 +30,10 @@ If it is failed during pulling image, please add proxy to docker https://docs.do
 ```
 kubectl apply -f https://docs.projectcalico.org/manifests/calico.yaml
 ```
+If installation fails on pull image, try to use the following command instead
+```
+docker pull docker pull calico/cni:v3.14.1
+```
 # Reference
 https://www.linuxtechi.com/install-kubernetes-1-7-centos7-rhel7/
 
