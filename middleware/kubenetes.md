@@ -38,6 +38,34 @@ If installation fails on pull image, try to use the following command instead
 ```
 docker pull calico/cni:v3.14.1
 ```
-# Reference
+## Reference
 https://www.linuxtechi.com/install-kubernetes-1-7-centos7-rhel7/
 
+# Upgrade
+```
+# Get deployment
+kubectl get deploy
+
+# Set the new image to be deployed
+kubectl set image deploy/<deployment-name> <deployment-name>=<new-image>
+
+# Check rollout history
+kubectl rollout history deploy
+
+# Check rollout status
+kubectl rollout status deploy/<deployment-name>
+
+# Undo rollout / rollback
+kubectl rollout undo deploy/<deployment-name>
+```
+
+# Run Command
+```
+kubectl exec -it <pod-name> -- /bin/sh
+kubectl exec <pod-name> -- cat /etc/hosts
+```
+
+# Common Used
+```
+kubectl get nodes -o=wide
+```
