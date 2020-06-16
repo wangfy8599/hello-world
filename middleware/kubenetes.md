@@ -76,7 +76,7 @@ kubectl get nodes -o=wide
 apiVersion: v1
 kind: PersistentVolume
 metadata:
-  name: task-pv-volume
+  name: k8-volume
   labels:
     type: local
 spec:
@@ -101,7 +101,7 @@ kubectl edit pv
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: task-pv-claim
+  name: k8-pvc
 spec:
   storageClassName: manual
   accessModes:
@@ -114,3 +114,41 @@ spec:
 kubectl create -f 
 ```
 
+# Local Docker Image
+## Dockerfile
+```
+FROM python:3
+ADD k8_demo.py /
+CMD [ "python", "./k8_demo.py" ]
+```
+```
+docker build -t k8-image .
+```
+
+# Pod
+k8-pod.yaml
+```
+apiVersion: v1
+kind: Pod
+metadata:
+  name: k8-pod
+spec:
+  volumes:
+    - name: nl-storage
+      persistentVolumeClaim:
+        claimName: nl-pvc
+  containers:
+    - name: nl-container
+      image: nl-image
+      imagePullPolicy: Never
+      ports:
+        - containerPort: 80
+          name: "nl"
+      volumeMounts:
+        - mountPath: "/usr/share/k8-volume"
+          name: nl-storage
+```
+```
+kubectl create -f ./k8-pod.yaml
+kubectl exec -it k8-pod -- /bin/bash 
+```
