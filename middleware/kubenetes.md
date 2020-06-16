@@ -92,6 +92,7 @@ spec:
 ```
 kubectl create -f pv.yaml
 kubectl get pv
+kubectl edit pv
 ```
 
 ## PVC
