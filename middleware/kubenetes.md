@@ -69,3 +69,47 @@ kubectl exec <pod-name> -- cat /etc/hosts
 ```
 kubectl get nodes -o=wide
 ```
+
+# PV
+## create pv config file pv.yaml
+```
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: task-pv-volume
+  labels:
+    type: local
+spec:
+  storageClassName: manual
+  capacity:
+    storage: 2Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: "/mnt/data"
+```
+# create pv
+```
+kubectl create -f pv.yaml
+kubectl get pv
+```
+
+## PVC
+## create pv config file pvc.yaml
+```
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: task-pv-claim
+spec:
+  storageClassName: manual
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 3Gi
+```
+```
+kubectl create -f 
+```
+
