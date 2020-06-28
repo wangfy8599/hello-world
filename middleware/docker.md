@@ -22,14 +22,20 @@ docker rm <container-id>
 docker rmi <image-id>
 
 # 
-docker container run --it --rm --name xxx -p xxx:xxx -e xxx=xxx -d image
+docker container run -it --rm --name xxx -p xxx:xxx -e xxx=xxx -d image
 docker container logs image
 docker container logs -f image
 
 # for debug purpose to use the local files
-docker container run --it --rm --name xxx -p xxx:xxx -e xxx=xxx -v $PWD:/app -d image
+docker container run -it --rm --name xxx -p xxx:xxx -e xxx=xxx -v $PWD:/app -d image
 
 # attach to a container
 docker container exec -it <container> bash
+docker container exec --user "$(id -u):$(id -g)" -it <container> bash
+docker container exec -it <container> ls -l
+
+# volume
+docker volume create d_vol
+docker container run -it --name xx -v d_vol:/data image
 
 ```
