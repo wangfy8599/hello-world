@@ -29,4 +29,7 @@ docker container logs -f image
 # for debug purpose to use the local files
 docker container run --it --rm --name xxx -p xxx:xxx -e xxx=xxx -v $PWD:/app -d image
 
+# attach to a container
+docker container exec -it <container> bash
+
 ```
