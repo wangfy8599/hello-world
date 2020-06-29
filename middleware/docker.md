@@ -38,4 +38,8 @@ docker container exec -it <container> ls -l
 docker volume create d_vol
 docker container run -it --name xx -v d_vol:/data image
 
+# system
+docker system df
+docker system df -v
+
 ```
