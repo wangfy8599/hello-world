@@ -2,6 +2,7 @@
 ```
 gdb --args app arg1 arg2  
 gdb app /tmp/core*dump
+gdb attach <pid>
 ```  
 
 # breakpoint
