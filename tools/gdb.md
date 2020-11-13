@@ -19,6 +19,7 @@ catch throw
 catch catch  
 catch fork  
 catch load  
+catch syscall exit exit_group  
 ```
 
 # show code
