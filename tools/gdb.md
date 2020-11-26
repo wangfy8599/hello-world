@@ -66,3 +66,14 @@ select-frame 5
 p <var>  
 display <var>
 ```
+
+# Run more commands in one line  
+```
+define fn
+> command1
+> command2
+> command3
+> end
+
+# Then type
+fn
