@@ -13,7 +13,9 @@ clear x.cpp:23
 del <start_breakpoint_num> - <end_breakpoint_num>  
 catch throw  
 -- list breakpoints
-info b  
+info b
+-- delete all breakpoints
+del
 
 catch throw  
 catch catch  
