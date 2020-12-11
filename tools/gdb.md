@@ -66,6 +66,8 @@ select-frame 5
 
 # print variable
 p <var>  
+# print in hex
+p/x <var>
 display <var>
 ```
 
