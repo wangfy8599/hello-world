@@ -17,6 +17,13 @@ info b
 -- delete all breakpoints
 del
 
+-- break and print
+b file:linenumber
+commands
+print x
+print y
+end
+
 catch throw  
 catch catch  
 catch fork  
