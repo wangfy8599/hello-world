@@ -1,2 +1,2 @@
 # Shutcuts
-Ctrl+Alt+Click for navigating to implementation instead of interface
+**Ctrl+Alt+Click** for navigating to implementation instead of interface
