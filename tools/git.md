@@ -11,7 +11,8 @@ git push origin --delete <branch>
 ```
 
 # Tag
-## delete tag
 ```
+# delete tag
 git tag -d <tag_name>
+git push --delete origin <tag_name>
 ```
