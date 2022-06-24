@@ -9,3 +9,9 @@ git branch -d <branch>
 ```
 git push origin --delete <branch>
 ```
+
+# Tag
+## delete tag
+```
+git tag -d <tag_name>
+```
