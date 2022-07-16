@@ -18,6 +18,9 @@ git tag -n
 # show tag detail
 git show <tag_name>
 
+# add tag
+git tag -a v1.4 -m "my version 1.4"
+
 # push all tags
 git push origin --tags
 
