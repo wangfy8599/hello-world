@@ -25,6 +25,20 @@ filetype indent on
 
 ```
 
+```
+# page up
+CTRL + f
+
+# page down
+CTRL + d
+
+# 1/2 Page Up
+CTRL + d
+
+# 1/2 Page Down
+CTRL + u
+```
+
 % key  
 The % key can be used for the following :  
 
