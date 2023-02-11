@@ -1,3 +1,4 @@
+# commands
 ```
 # list docker images
 docker images
@@ -13,7 +14,13 @@ docker image rm <image_id>
 docker run -it <image_id> bash
 
 # remove the container after it exits
-docker run -it --rm image_id> bash
+docker run -it --rm <image_id> bash
+
+# define an environment variable
+docker run -it --rm -e KEY_1=2 <image_id> bash
+
+# mapping a directory to container
+docker run -it --rm -v /home/...:/host_dir <image_id> bash
 
 # list all containers
 docker ps -a
@@ -30,3 +37,6 @@ docker commit <container_id> <image_name>
 # Execute a command in a running container
 docker exec -it 
 ```
+
+# Best Prictise
+## Don't fetch dependencies on docker start. They should be included in images.
