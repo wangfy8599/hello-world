@@ -18,6 +18,9 @@ docker run -it --rm image_id> bash
 # list all containers
 docker ps -a
 
+# kill container
+docker kill <container_id>
+
 # remove container
 docker rm <containter_id>
 
