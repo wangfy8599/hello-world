@@ -10,6 +10,9 @@ docker build . -f ./Dockerfile -t <my-app-name>
 docker rmi <image_id>
 docker image rm <image_id>
 
+# Remove all dangling images. If -a is specified, will also remove all images not referenced by any container. 
+docker image prune
+
 # run a new container from image
 docker run -it <image_id> bash
 
