@@ -21,6 +21,9 @@ git show <tag_name>
 # add tag
 git tag -a v1.4 -m "my version 1.4"
 
+# add a tag to a commit
+git tag -a v1.2 9fceb02 -m "Message here"
+
 # push all tags
 git push origin --tags
 
