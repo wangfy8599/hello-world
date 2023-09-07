@@ -25,6 +25,9 @@ docker run -it --rm -e KEY_1=2 <image_id> bash
 # mapping a directory to container
 docker run -it --rm -v /home/...:/host_dir <image_id> bash
 
+# run with replacing entry point 
+docker run -it --rm --entrypoint /bin/bash <image_id>
+
 # list all containers
 docker ps -a
 
