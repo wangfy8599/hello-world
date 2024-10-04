@@ -88,8 +88,10 @@ define fn
 
 # Then type
 fn
+```
 
 # Check assemble code
+```
 gdb libexample.so
 (gdb) disassemble someNativeFunction
 
