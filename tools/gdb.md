@@ -93,5 +93,6 @@ fn
 # Check assemble code
 ```
 gdb libexample.so
+# if you don't know the symbol name, you can use "nm libexample.so" to check
 (gdb) disassemble someNativeFunction
 
