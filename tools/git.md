@@ -10,6 +10,12 @@ git branch -d <branch>
 git push origin --delete <branch>
 ```
 
+## Fetch Updates from Remove
+```
+# The -p flag stands for prune which removes any remotetraccking references that no longer exist on the remote
+git fetch -p
+```
+
 # Tag
 ```
 # list tag
