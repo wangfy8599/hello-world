@@ -31,6 +31,17 @@ catch load
 catch syscall exit exit_group  
 ```
 
+# dump analysis
+gdb <your_exe_path> <dump_file_path>
+
+bt
+
+info threads
+
+thread <x>
+
+select-frame <x>
+
 # show code
 ```
 list  
